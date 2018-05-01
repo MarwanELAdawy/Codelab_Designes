@@ -1,0 +1,237 @@
+<style type=”text/css”>
+body {
+      background: url(Careers-12.png) right bottom no-repeat, url(Careers-12.png) left top repeat;
+    background-color: #007193;
+}
+body img{
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+.img{
+  margin-top: 100px;
+}
+.body{
+  font: #000;
+  background-image: url(Careers-11.png);
+}
+body form{
+background: #ffffff;
+padding: 20px;
+color: white;
+border: 2px solid;
+border-radius: 5px;
+margin: auto;
+}
+p{
+  text-align: center;
+}
+
+.nav-tabs>li>a {
+border-radius: 0px;
+background: #002E6E;
+color: white;
+}
+.nav-tabs>li>a:hover {
+border-radius: 0px;
+background: #002E6E;
+color: white;
+}
+.form-group h1{
+  text-align: center;
+  color: black;
+  font-size: 30px;
+
+
+}
+.form-group input{
+  border-radius: 10px;
+  height: 40px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000;
+  text-align:right;
+  padding-right:30px;
+  margin-right: 3px;
+  float: right;
+  margin-bottom: 1em;
+  width: 400px;
+}
+.fm2 button{
+  float: right;
+  margin-bottom: 200px;
+  width: 180px;
+  height: 50px;
+  background-color: #FF7F00;
+}
+.fm2{
+  width: 600px;
+  height: 280px;
+}
+.img2{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-repeat: round;
+    margin-top: 380px;
+    width: 110%;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    font-weight: 700;
+    margin-bottom: auto;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+form-group button{
+  color: #FF7F00;
+}
+div img{
+  position:fixed;
+   right:0;
+   bottom:0;
+   margin:0;
+   padding:0;
+   width:75%;
+}
+* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) {
+
+}
+
+</style>
